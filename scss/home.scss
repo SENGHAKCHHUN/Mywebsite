@@ -1,1 +1,11 @@
 @import './variable/main';
+
+main{
+    background: pink;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    // align-items: center;
+    justify-content: center;
+    padding-left: 100px;
+}
